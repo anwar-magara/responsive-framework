@@ -1,9 +1,8 @@
 /*=================
 grids
 =================*/
-
 /* max-width 640px, mobile-only styles, use when QAing mobile issues */
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 30em) {
   .col-1 {
 		margin: 1% 0 1% 0%;
 	}
@@ -14,7 +13,7 @@ grids
     margin: 20px 0;
   }
  }
- @media only screen and (max-width: 40em) {
+ @media only screen and (max-width: 30em) {
    .grid-1{
      width: 100%;
    }
